@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Movies &amp; TV</string>
-    <string name="search_hint">Movies &amp; TV</string>
+    <string name="search_hint">Kodi</string>
 
-    <string name="suggestion_channel">Suggestions</string>
+    <string name="suggestion_channel">Custom Kodi Build</string>
 </resources>
