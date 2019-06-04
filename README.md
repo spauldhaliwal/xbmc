@@ -1,3 +1,13 @@
+![Kodi preview](docs/resources/preview.gif)
+
+This branch adds the following features to Kodi:
+
+1) Richer metadata when using Android TV's channels features (through favourites or smart playlists).
+2) Ability to add channels from favourites, as well as the original smart playlist method.
+3) Plex Kodi Connect nodes On Deck and Continue Watching are placed in the Android system Play Next channel when added to Kodi favourites
+4) Updated icons and splash screen for improved visuals
+
+
 ![Kodi Logo](docs/resources/banner.png)
 
 <p align="center">
